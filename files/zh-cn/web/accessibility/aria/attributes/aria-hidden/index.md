@@ -32,7 +32,7 @@ original_slug: Web/Accessibility/ARIA/ARIA_Techniques/使用 aria-hidden 属性
 
 表面上，`aria-hidden="true"`，`role="presentation"`，和`role="none"` 很相似，因为这三者都有以下特性：
 
-- 根据辅助即使隐藏页面内容
+- 根据辅助技术隐藏页面内容
 - 无法在可聚焦元素上使用
 - 无法在可互动元素的父级元素上使用
 
